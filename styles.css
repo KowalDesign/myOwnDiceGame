@@ -1,0 +1,36 @@
+* {
+    font-family: 'Bruno Ace SC', cursive;
+    color:rgb(19, 60, 46);
+    background-color: antiquewhite;
+}
+
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+  
+  }
+
+  footer {
+    text-align: center;
+    margin-top: 170px;
+  }
+
+  #legia {
+    height: 10px;
+  }
+
+  .red-flag {
+    height: 50px;
+  }
+
+
+  .diceImg {
+    width: 80%;
+  }
